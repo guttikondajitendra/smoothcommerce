@@ -1,0 +1,31 @@
+
+.location-table{
+    border-spacing: 0;
+}
+.location-table th{
+    background: blue;
+}
+.location-table td{
+    border: 1px solid black;
+}
+.loc-image{
+    width: 500px;
+    height: 500px;
+}
+
+.location-detail-container{
+    display: flex;
+    padding: 20px;
+}
+
+.location-detail-details{
+    padding: 20px;
+}
+
+.location-detail-details>div{
+    padding: 10px 0;
+}
+
+.location-detail-details label{
+    font-weight: 800;
+}
